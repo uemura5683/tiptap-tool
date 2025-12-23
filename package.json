@@ -12,7 +12,7 @@
     "@tiptap/pm": "^2.11.5",
     "@tiptap/react": "^2.11.5",
     "@tiptap/starter-kit": "^2.11.5",
-    "next": "15.4.7",
+    "next": "15.4.10",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
